@@ -1,0 +1,2 @@
+.carousel-container{width:100%;overflow:hidden;position:relative;padding:20px 0}.carousel{display:flex;animation:20s linear infinite scroll}.carousel-img{width:120px;height:auto;margin-right:20px}@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(calc(-100% - 20px))}}.carousel-container:hover .carousel{animation-play-state:paused}
+.apertar{transition:transform .2s}.apertar.selecionado{transform:scale(1.1);border:2px solid #007bff;background-color:#007bff}h3{font-weight:700}.fa.fa-navicon{top:13px;left:5px}
